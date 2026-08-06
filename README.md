@@ -1,5 +1,7 @@
 # Mass-Spring-Damper PID Control System
 
+## Author: E.Borzouei
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange)
 ![Simulink](https://img.shields.io/badge/Simulink-Model-blue)
 ![Control](https://img.shields.io/badge/Control-PID-green)
@@ -190,8 +192,3 @@ mass_spring_pid.slx
 - Git
 
 ---
-
-## Author
-
-Control Systems Project  
-Mass–Spring–Damper Modeling and PID Control
